@@ -1,0 +1,20 @@
+subject  channel muscle preferred  lead_ratio  wins  complete_rounds       cv  shape_r  candidate
+     P1        8  左比目鱼肌   forward    1.360711     4                4 0.251709 0.636738       True
+     P1       16  右比目鱼肌   forward    1.648559     3                4 0.203324 0.824923       True
+     P2        1   左臀中肌   forward    1.451329     4                4 0.171319 0.849097       True
+     P2        3  左股外侧肌  backward   10.783530     3                3 0.049225 0.882713       True
+     P2        5  左股二头肌  backward    4.147252     3                3 0.034722 0.848445       True
+     P2        7   左腓肠肌   forward    1.743689     4                4 0.061862 0.776598       True
+     P2        8  左比目鱼肌   forward    1.828856     4                4 0.020915 0.800438       True
+     P2        9   右臀中肌   forward    1.576545     4                4 0.093050 0.826447       True
+     P2       11  右股外侧肌  backward   10.904617     3                3 0.158855 0.867869       True
+     P2       12  右股内侧肌  backward    9.320606     3                3 0.160613 0.793643       True
+     P2       15   右腓肠肌   forward    2.320359     4                4 0.052669 0.869405       True
+     P2       16  右比目鱼肌   forward    2.173111     4                4 0.060060 0.838883       True
+     P3        7   左腓肠肌   forward    1.504141     4                4 0.123238 0.793579       True
+     P3        9   右臀中肌     right    1.320761     3                4 0.117131 0.912655       True
+     P3       15   右腓肠肌   forward    1.258891     4                4 0.062840 0.857345       True
+Saved fig1_processing
+Saved fig2_envelopes
+Saved fig3_directions
+Saved fig4_repeats
